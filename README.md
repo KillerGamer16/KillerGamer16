@@ -10,7 +10,7 @@ local bindable = Instance.new("BindableFunction")
 
 
 if game.PlaceId == 4753194980 then
-	
+	game:GetService("UserInputService").MouseIconEnabled = true
 	local mt = getrawmetatable(game)
 	setreadonly(mt, false)
 	local oldmt = mt.__namecall
