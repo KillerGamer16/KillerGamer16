@@ -856,7 +856,7 @@ if game.PlaceId == 4753194980 then
 	Tittle_2.Position = UDim2.new(0.220930234, 0, 0.142857149, 0)
 	Tittle_2.Size = UDim2.new(0.558139563, 0, 0.666666687, 0)
 	Tittle_2.Font = Enum.Font.Gotham
-	Tittle_2.Text = "Teleports"
+	Tittle_2.Text = "Teleports(PATCHED)"
 	Tittle_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 	Tittle_2.TextScaled = true
 	Tittle_2.TextSize = 14.000
